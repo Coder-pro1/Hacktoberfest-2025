@@ -64,20 +64,3 @@ This document lists all my accepted pull requests during Hacktoberfest 2025.
 
 ---
 
-## How to Add a New Contribution
-
-To add a new contribution, copy the template below and fill in your details:
-
-```markdown
-### [Number]. [Title of PR]
-- **Repository:** [owner/repo-name](https://github.com/owner/repo-name)
-- **PR Link:** [#PR_NUMBER](https://github.com/owner/repo-name/pull/PR_NUMBER)
-- **Status:** ✅ Merged / 🔄 Open / 🎯 Under Review
-- **Date:** YYYY-MM-DD
-- **Description:** Brief description of what the PR accomplishes
-- **Technologies:** List of technologies/languages used
-```
-
----
-
-*Keep contributing and happy hacking! 🚀*
