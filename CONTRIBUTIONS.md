@@ -27,7 +27,7 @@ This document lists all my accepted pull requests during Hacktoberfest 2025.
 ### 3. Rename /certificate route to /completion - Fixes #98
 - **Repository:** [GDGBabcockUniversity/gdg-babcock-hacktoberfest-2025](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2025)
 - **PR Link:** [#101](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2025/pull/101)
-- **Status:** ✅ Merged ✔️ Approved
+- **Status:** ✅ Merged 🏷️ hacktoberfest-accepted
 - **Date:** October 22, 2025
 - **Description:** Renamed the certificate route to completion for better clarity and consistency
 - **Technologies:** JavaScript, Routing
@@ -37,7 +37,7 @@ This document lists all my accepted pull requests during Hacktoberfest 2025.
 ### 4. Update certificate headings for clarity - Fixes #99
 - **Repository:** [GDGBabcockUniversity/gdg-babcock-hacktoberfest-2025](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2025)
 - **PR Link:** [#100](https://github.com/GDGBabcockUniversity/gdg-babcock-hacktoberfest-2025/pull/100)
-- **Status:** ✅ Merged ✔️ Approved
+- **Status:** ✅ Merged 🏷️ hacktoberfest-accepted
 - **Date:** October 22, 2025
 - **Description:** Updated certificate headings to improve readability and user experience
 - **Technologies:** HTML, CSS, Documentation
@@ -47,7 +47,7 @@ This document lists all my accepted pull requests during Hacktoberfest 2025.
 ### 5. Add AWS SSM Chaos experiments to AWS experiments table
 - **Repository:** [litmuschaos/litmus](https://github.com/litmuschaos/litmus)
 - **PR Link:** [#5240](https://github.com/litmuschaos/litmus/pull/5240)
-- **Status:** ✅ Merged ✔️ Approved
+- **Status:** ✅ Merged 🏷️ hacktoberfest-accepted
 - **Date:** October 22, 2025
 - **Description:** Added documentation for AWS SSM Chaos experiments to the AWS experiments reference table
 - **Technologies:** Markdown, Documentation, AWS, Chaos Engineering
