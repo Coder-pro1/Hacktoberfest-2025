@@ -1,7 +1,8 @@
 # My Hacktoberfest 2025 Contributions
 
-This document lists all my accepted pull requests during Hacktoberfest 2025.Although each of them were small changes done in styling(css),routing,documentation etc. it was a great experence to have something to contribute for open source projects  in the range of what I know.
-Fun fact - Added a recipe and shared the culture of my country to a global recipe book webpage
+This document lists all my accepted pull requests during Hacktoberfest 2025.Although each of them were small changes done in html,css,react webpages and documentation etc. , it was a great experience to have something to contribute for open source projects  in the range of what I know currently.
+
+Fun fact - Added a recipe and shared the culture of my country to a global recipe book webpage.
 
 ## Accepted Pull Requests
 
@@ -11,17 +12,17 @@ Fun fact - Added a recipe and shared the culture of my country to a global recip
 - **Status:** ✅ Merged
 - **Date:** October 28, 2025
 - **Description:** Fixed the order of gratitude entries to display correctly
-- **Technologies:** JavaScript
+- **Technologies:** Python
 
 ---
 
-### 2. Added chicken_kottu recipe - Issue #91
+### 2. Added a recipe - Issue #91
 - **Repository:** [CSI-CATT/global-recipe-book](https://github.com/CSI-CATT/global-recipe-book)
 - **PR Link:** [#110](https://github.com/CSI-CATT/global-recipe-book/pull/110)
 - **Status:** ✅ Merged 🏷️ hacktoberfest-accepted
 - **Date:** October 24, 2025
-- **Description:** Added a new chicken kottu recipe to the global recipe book collection
-- **Technologies:** Markdown, Recipe Documentation
+- **Description:** Added a recipe(chicken koththu) to the global recipe book collection
+- **Technologies:** HTML 
 
 ---
 
@@ -51,7 +52,7 @@ Fun fact - Added a recipe and shared the culture of my country to a global recip
 - **Status:** ✅ Merged 🏷️ hacktoberfest-accepted
 - **Date:** October 22, 2025
 - **Description:** Added documentation for AWS SSM Chaos experiments to the AWS experiments reference table
-- **Technologies:** Markdown, Documentation, AWS, Chaos Engineering
+- **Technologies:** Markdown, Documentation, AWS
 
 ---
 
