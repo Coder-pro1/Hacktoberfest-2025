@@ -1,6 +1,7 @@
 # My Hacktoberfest 2025 Contributions
 
-This document lists all my accepted pull requests during Hacktoberfest 2025.
+This document lists all my accepted pull requests during Hacktoberfest 2025.Although each of them were small changes done in styling(css),routing,documentation etc. it was a great experence to have something to contribute for open source projects  in the range of what I know.
+Fun fact - Added a recipe and shared the culture of my country to a global recipe book webpage
 
 ## Accepted Pull Requests
 
