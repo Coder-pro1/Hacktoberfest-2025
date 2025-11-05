@@ -9,7 +9,7 @@ Fun fact - Added a recipe and shared the culture of my country to a global recip
 ### 1. Gratitude order reversed - Fixing issue #56
 - **Repository:** [mattlindsey/affirm](https://github.com/mattlindsey/affirm)
 - **PR Link:** [#62](https://github.com/mattlindsey/affirm/pull/62)
-- **Status:** ✅ Merged
+- **Status:** ✅ Merged 🏷️ hacktoberfest-accepted
 - **Date:** October 28, 2025
 - **Description:** Fixed the order of gratitude entries to display correctly
 - **Technologies:** Python
