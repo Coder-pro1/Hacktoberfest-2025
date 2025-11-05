@@ -15,15 +15,25 @@ Check out [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) for a detailed list of all my a
 ## Gallery
 
 ### Hacktoberfest Journey 🎉
+
 <div align="center">
-  <img src="./assets/hacktoberfestmsg.png" alt="Hacktoberfest Message" width="30%" style="margin: 10px;" />
-  <img src="./assets/holopinbadge.png" alt="Holopin Badge" width="30%" style="margin: 10px;" />
-  <img src="./assets/treeplanted.png" alt="Tree Planted" width="30%" style="margin: 10px;" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./assets/hacktoberfestmsg.png" alt="Hacktoberfest Message" width="95%" />
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/holopinbadge.png" alt="Holopin Badge" width="95%" />
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/treeplanted.png" alt="Tree Planted" width="95%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="./assets/treegift.png" alt="Tree Gift" width="30%" style="margin: 10px;" />
-  <img src="./assets/GDGrepocertificate.png" alt="GDG Certificate" width="30%" style="margin: 10px;" />
+  <img src="./assets/treegift.png" alt="Tree Gift" width="45%" style="margin: 10px;" />
 </div>
 
 ### Certificate 🏆
