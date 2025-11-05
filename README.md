@@ -12,6 +12,10 @@ Hacktoberfest is an annual month-long celebration of open source software. It en
 
 Check out [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) for a detailed list of all my accepted pull requests during Hacktoberfest 2025.
 
+## Holopin Board 🎖️
+
+[![An image of @coderpro1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderpro1)](https://holopin.io/@coderpro1)
+
 ## Gallery
 
 ### Hacktoberfest Journey 🎉
