@@ -15,15 +15,21 @@ Check out [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) for a detailed list of all my a
 ## Gallery
 
 ### Hacktoberfest Journey 🎉
-<p align="center">
-  <img src="./assets/hacktoberfestmsg.png" alt="Hacktoberfest Message" width="25%" />
-  <img src="./assets/holopinbadge.png" alt="Holopin Badge" width="25%" />
-  <img src="./assets/treeplanted.png" alt="Tree Planted" width="25%" />
-  <img src="./assets/treegift.png" alt="Tree Gift" width="25%" />
-</p>
+<div align="center">
+  <img src="./assets/hacktoberfestmsg.png" alt="Hacktoberfest Message" width="30%" style="margin: 10px;" />
+  <img src="./assets/holopinbadge.png" alt="Holopin Badge" width="30%" style="margin: 10px;" />
+  <img src="./assets/treeplanted.png" alt="Tree Planted" width="30%" style="margin: 10px;" />
+</div>
+
+<div align="center">
+  <img src="./assets/treegift.png" alt="Tree Gift" width="30%" style="margin: 10px;" />
+  <img src="./assets/GDGrepocertificate.png" alt="GDG Certificate" width="30%" style="margin: 10px;" />
+</div>
 
 ### Certificate 🏆
-📄 **[Download Certificate (PDF)](./assets/tree-certificate-d5c92328a659c758.pdf)**
+<p align="center">
+📄 <strong><a href="./assets/tree-certificate-d5c92328a659c758.pdf">Download Certificate (PDF)</a></strong>
+</p>
 
 ## Languages Used
 
