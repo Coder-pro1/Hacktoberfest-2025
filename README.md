@@ -23,21 +23,21 @@ Check out [CONTRIBUTIONS.md](./CONTRIBUTIONS.md) for a detailed list of all my a
         <img src="./assets/hacktoberfestmsg.png" alt="Hacktoberfest Message" width="95%" />
       </td>
       <td align="center" width="33%">
-        <img src="./assets/holopinbadge.png" alt="Holopin Badge" width="95%" />
+        <img src="./assets/holopinbadge.png" alt="Holopin Badge" width="100%" height="100%" style="object-fit: contain;" />
       </td>
       <td align="center" width="33%">
-        <img src="./assets/treeplanted.png" alt="Tree Planted" width="95%" />
+        <img src="./assets/treeplanted.png" alt="Tree Planted" width="100%" height="100%" style="object-fit: contain;" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="./assets/treegift.png" alt="Tree Gift" width="45%" style="margin: 10px;" />
+  <img src="./assets/treegift.png" alt="Tree Gift" width="100%" />
 </div>
 
 ### Certificate 🏆
-<p align="center">
+<p align="left">
 📄 <strong><a href="./assets/tree-certificate-d5c92328a659c758.pdf">Download Certificate (PDF)</a></strong>
 </p>
 
